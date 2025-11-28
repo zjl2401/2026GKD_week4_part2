@@ -1,0 +1,3 @@
+C:/Users/yaping/Desktop/GIT/2026GKD_week4_part2/build/CMakeFiles/2026GKD_week4_part2.dir
+C:/Users/yaping/Desktop/GIT/2026GKD_week4_part2/build/CMakeFiles/edit_cache.dir
+C:/Users/yaping/Desktop/GIT/2026GKD_week4_part2/build/CMakeFiles/rebuild_cache.dir
